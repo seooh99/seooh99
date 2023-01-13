@@ -9,15 +9,18 @@
 
 열매를 맺는 그날까지 화이팅!! 🍒
 
-</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgml212)](https://solved.ac/tjgml212/)
+
 
 # 💪Skills
 
 ### Platforms & Languages
 
+
 ### Tools
+
+<br/>
 
 # :mailbox_with_mail: Contacts
 
