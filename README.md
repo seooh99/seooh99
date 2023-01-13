@@ -17,6 +17,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seooh212@gmail.com)](mailto:seooh212@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tg0212@naver.com)](mailto:tg0212@naver.com)
+<a href="버튼을 눌렀을 때 이동할 링크" target="sh_212"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 <!--
 **seooh99/seooh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
