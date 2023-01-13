@@ -3,8 +3,6 @@
         src="https://img.shields.io/github/followers/seooh99?label=seooh99%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-</div>
-
 # ✨ IM SEO HEE
 
 🌱 반가워요! 저는 막 깨어난 새싹 개발자입니다.
