@@ -12,9 +12,9 @@
 열매를 맺는 그날까지 화이팅!! 🍒
 
 </div>
+![seooh99's GitHub stats](https://github-readme-stats.vercel.app/api?username=seooh99&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgml212)](https://solved.ac/tjgml212/)
-
 
 # 💪Skills
 
