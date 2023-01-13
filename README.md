@@ -8,7 +8,7 @@
 <h4 align="center"> Hi there!
 저는 막 깨어난 새싹 개발자입니다. </h4>
 <p align="center">
-열매를 맺는 그날까지 화이팅!! 🍒
+열매 맺는 그날까지 화이팅!! 🍒
 </p>
         
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seooh99&&show_icons=true&theme=dark)
